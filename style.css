@@ -105,3 +105,19 @@ body {
     font-weight: normal;
     width: 150px;
 }
+
+.quote {
+    background-color: #e5e7eb;
+    font-style: italic;
+    font-weight: light;
+    font-size: 36px;
+    color: #1f2937;
+    padding: 20px 200px;
+}
+
+.quote span {
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    padding-left: 40vw;
+}
