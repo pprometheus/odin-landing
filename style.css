@@ -154,3 +154,10 @@ body {
     font-size: 18px;
     font-weight: lighter;
 }
+
+footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 40px;
+}
