@@ -121,3 +121,36 @@ body {
     font-style: normal;
     padding-left: 40vw;
 }
+
+.action {
+    padding: 20px 200px;
+}
+
+.action #container {
+    background-color: #3882f6;
+    display: flex;
+    flex-direction: row;
+    color: #e5e7eb;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 40px 20px 20px 150px;
+    border-radius: 10px;
+}
+
+.action button {
+    color: #e5e7eb;
+    font-size: medium;
+    background-color: transparent;
+    border: solid 2px #E5E7EB;
+    font-weight: bold;
+    margin-left: 300px;
+    margin-top: 20px;
+    height: 45px;
+    padding: 0px 30px;
+    border-radius: 10px;
+}
+
+.action p {
+    font-size: 18px;
+    font-weight: lighter;
+}
